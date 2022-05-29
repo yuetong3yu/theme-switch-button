@@ -1,0 +1,16 @@
+{
+  "name": "theme-switch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "postcss-preset-env": "^7.0.0",
+    "vite": "^2.9.9"
+  }
+}
